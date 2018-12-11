@@ -1,0 +1,7 @@
+(NIL, (5,black), NIL)
+((NIL, (4,red), NIL), (5,black), NIL)
+((NIL, (4,red), NIL), (5,black), (NIL, (6,red), NIL))
+(((NIL, (1,red), NIL), (4,black), NIL), (5,black), (NIL, (6,black), NIL))
+((NIL, (4,black), NIL), (5,black), (NIL, (6,black), NIL))
+(((NIL, (2,red), NIL), (4,black), NIL), (5,black), (NIL, (6,black), NIL))
+((NIL, (2,black), NIL), (4,black), (NIL, (5,black), NIL))
